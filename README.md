@@ -11,6 +11,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sone6ee&show_icons=true&bg_color=00000000&title_color=f0616e&text_color=2f2c23&icon_color=F4C2C2&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sone6ee&title_color=f0616e)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sone6ee&bg_color=00000000&title_color=f0616e&line=F4C2C2&color=2f2c23)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
