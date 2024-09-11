@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sone6ee&show_icons=true&bg_color=00000000&title_color=f0616e&text_color=2f2c23&icon_color=F4C2C2&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sone6ee&show_icons=true&bg_color=ffffff&title_color=f0616e&text_color=2f2c23&icon_color=F4C2C2&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sone6ee&title_color=f0616e)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sone6ee&bg_color=00000000&title_color=f0616e&line=F4C2C2&color=2f2c23)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -19,5 +19,5 @@
 <br><br><br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsone6ee&count_bg=%23F4C2C2&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsone6ee&bg_color=ffffff&count_bg=%23F4C2C2&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 </p>
